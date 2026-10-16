@@ -1,0 +1,898 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1176" height="164" viewBox="0 0 1176 164" role="img" aria-labelledby="title desc">
+<title id="title">Contribution calendar</title>
+<desc id="desc">@demonsxxxxxx: Daily contributions, shaded by activity level.</desc>
+<g id="floor">
+<rect x="6" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="6" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="6" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="6" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="6" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="6" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="6" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="28" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="28" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="28" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="28" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="28" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="28" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="28" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="50" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="50" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="50" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="50" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="50" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="50" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="50" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="72" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="72" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="72" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="72" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="72" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="72" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="72" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="94" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="94" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="94" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="94" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="94" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="94" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="94" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="116" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="116" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="116" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="116" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="116" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="116" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="116" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="138" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="138" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="138" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="138" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="138" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="138" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="138" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="160" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="160" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="160" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="160" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="160" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="160" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="160" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="182" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="182" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="182" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="182" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="182" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="182" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="182" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="204" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="204" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="204" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="204" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="204" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="204" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="204" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="226" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="226" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="226" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="226" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="226" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="226" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="226" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="248" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="248" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="248" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="248" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="248" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="248" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="248" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="270" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="270" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="270" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="270" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="270" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="270" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="270" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="292" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="292" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="292" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="292" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="292" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="292" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="292" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="314" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="314" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="314" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="314" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="314" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="314" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="314" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="336" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="336" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="336" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="336" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="336" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="336" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="336" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="358" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="358" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="358" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="358" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="358" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="358" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="358" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="380" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="380" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="380" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="380" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="380" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="380" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="380" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="402" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="402" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="402" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="402" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="402" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="402" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="402" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="424" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="424" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="424" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="424" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="424" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="424" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="424" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="446" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="446" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="446" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="446" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="446" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="446" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="446" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="468" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="468" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="468" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="468" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="468" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="468" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="468" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="490" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="490" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="490" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="490" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="490" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="490" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="490" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="512" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="512" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="512" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="512" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="512" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="512" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="512" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="534" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="534" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="534" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="534" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="534" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="534" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="534" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="556" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="556" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="556" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="556" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="556" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="556" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="556" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="578" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="578" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="578" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="578" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="578" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="578" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="578" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="600" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="600" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="600" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="600" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="600" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="600" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="600" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="622" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="622" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="622" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="622" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="622" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="622" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="622" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="644" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="644" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="644" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="644" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="644" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="644" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="644" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="666" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="666" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="666" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="666" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="666" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="666" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="666" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="688" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="688" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="688" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="688" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="688" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="688" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="688" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="710" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="710" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="710" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="710" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="710" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="710" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="710" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="732" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="732" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="732" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="732" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="732" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="732" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="732" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="754" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="754" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="754" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="754" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="754" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="754" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="754" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="776" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="776" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="776" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="776" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="776" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="776" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="776" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="798" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="798" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="798" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="798" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="798" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="798" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="798" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="820" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="820" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="820" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="820" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="820" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="820" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="820" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="842" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="842" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="842" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="842" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="842" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="842" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="842" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="864" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="864" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="864" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="864" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="864" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="864" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="864" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="886" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="886" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="886" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="886" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="886" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="886" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="886" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="908" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="908" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="908" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="908" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="908" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="908" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="908" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="930" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="930" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="930" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="930" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="930" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="930" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="930" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="952" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="952" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="952" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="952" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="952" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="952" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="952" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="974" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="974" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="974" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="974" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="974" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="974" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="974" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="996" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="996" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="996" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="996" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="996" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="996" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="996" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1018" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1018" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1018" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1018" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1018" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1018" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1018" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1040" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1040" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1040" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1040" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1040" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1040" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1040" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1062" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1062" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1062" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1062" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1062" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1062" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1062" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1084" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1084" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1084" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1084" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1084" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1084" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1084" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1106" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1106" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1106" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1106" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1106" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1106" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1106" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1128" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1128" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1128" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1128" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1128" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1128" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1128" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1150" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1150" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1150" y="50" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1150" y="72" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1150" y="94" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1150" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
+<rect x="1150" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
+</g><g id="contributions">
+<g data-cell="33,4"><title>2026-06-04: 7 contributions</title>
+<rect x="732" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M735 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="33,5"><title>2026-06-05: 63 contributions</title>
+<rect x="732" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M735 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="33,6"><title>2026-06-06: 49 contributions</title>
+<rect x="732" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M735 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="34,0"><title>2026-06-07: 3 contributions</title>
+<rect x="754" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M757 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="34,1"><title>2026-06-08: 54 contributions</title>
+<rect x="754" y="28" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M757 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="34,2"><title>2026-06-09: 18 contributions</title>
+<rect x="754" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M757 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="34,4"><title>2026-06-11: 36 contributions</title>
+<rect x="754" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M757 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="34,5"><title>2026-06-12: 34 contributions</title>
+<rect x="754" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M757 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="34,6"><title>2026-06-13: 34 contributions</title>
+<rect x="754" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M757 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="35,0"><title>2026-06-14: 32 contributions</title>
+<rect x="776" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M779 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="35,1"><title>2026-06-15: 10 contributions</title>
+<rect x="776" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M779 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="35,2"><title>2026-06-16: 12 contributions</title>
+<rect x="776" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M779 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="35,3"><title>2026-06-17: 33 contributions</title>
+<rect x="776" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M779 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="35,4"><title>2026-06-18: 36 contributions</title>
+<rect x="776" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M779 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="35,5"><title>2026-06-19: 87 contributions</title>
+<rect x="776" y="116" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M779 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="35,6"><title>2026-06-20: 41 contributions</title>
+<rect x="776" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M779 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="36,0"><title>2026-06-21: 25 contributions</title>
+<rect x="798" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M801 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="36,1"><title>2026-06-22: 45 contributions</title>
+<rect x="798" y="28" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M801 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="36,2"><title>2026-06-23: 57 contributions</title>
+<rect x="798" y="50" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M801 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="36,3"><title>2026-06-24: 86 contributions</title>
+<rect x="798" y="72" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M801 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="36,4"><title>2026-06-25: 49 contributions</title>
+<rect x="798" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M801 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="36,5"><title>2026-06-26: 21 contributions</title>
+<rect x="798" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M801 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="36,6"><title>2026-06-27: 10 contributions</title>
+<rect x="798" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M801 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="37,0"><title>2026-06-28: 22 contributions</title>
+<rect x="820" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M823 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="37,1"><title>2026-06-29: 10 contributions</title>
+<rect x="820" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M823 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="37,2"><title>2026-06-30: 39 contributions</title>
+<rect x="820" y="50" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M823 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="37,3"><title>2026-07-01: 18 contributions</title>
+<rect x="820" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M823 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="37,4"><title>2026-07-02: 24 contributions</title>
+<rect x="820" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M823 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="37,5"><title>2026-07-03: 24 contributions</title>
+<rect x="820" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M823 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="37,6"><title>2026-07-04: 5 contributions</title>
+<rect x="820" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M823 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,0"><title>2026-07-05: 26 contributions</title>
+<rect x="842" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M845 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,1"><title>2026-07-06: 18 contributions</title>
+<rect x="842" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M845 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,2"><title>2026-07-07: 14 contributions</title>
+<rect x="842" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M845 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,3"><title>2026-07-08: 75 contributions</title>
+<rect x="842" y="72" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M845 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,4"><title>2026-07-09: 5 contributions</title>
+<rect x="842" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M845 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,5"><title>2026-07-10: 38 contributions</title>
+<rect x="842" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M845 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,6"><title>2026-07-11: 108 contributions</title>
+<rect x="842" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M845 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,0"><title>2026-07-12: 33 contributions</title>
+<rect x="864" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M867 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,1"><title>2026-07-13: 22 contributions</title>
+<rect x="864" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M867 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,2"><title>2026-07-14: 25 contributions</title>
+<rect x="864" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M867 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,3"><title>2026-07-15: 43 contributions</title>
+<rect x="864" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M867 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,4"><title>2026-07-16: 10 contributions</title>
+<rect x="864" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M867 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,5"><title>2026-07-17: 36 contributions</title>
+<rect x="864" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M867 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,6"><title>2026-07-18: 63 contributions</title>
+<rect x="864" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M867 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,0"><title>2026-07-19: 57 contributions</title>
+<rect x="886" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M889 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,1"><title>2026-07-20: 16 contributions</title>
+<rect x="886" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M889 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,2"><title>2026-07-21: 14 contributions</title>
+<rect x="886" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M889 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,3"><title>2026-07-22: 35 contributions</title>
+<rect x="886" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M889 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,4"><title>2026-07-23: 52 contributions</title>
+<rect x="886" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M889 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,5"><title>2026-07-24: 63 contributions</title>
+<rect x="886" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M889 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,6"><title>2026-07-25: 30 contributions</title>
+<rect x="886" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M889 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,0"><title>2026-07-26: 63 contributions</title>
+<rect x="908" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M911 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,1"><title>2026-07-27: 111 contributions</title>
+<rect x="908" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M911 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,2"><title>2026-07-28: 176 contributions</title>
+<rect x="908" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M911 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,3"><title>2026-07-29: 104 contributions</title>
+<rect x="908" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M911 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,4"><title>2026-07-30: 105 contributions</title>
+<rect x="908" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M911 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,5"><title>2026-07-31: 60 contributions</title>
+<rect x="908" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M911 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,6"><title>2026-08-01: 3 contributions</title>
+<rect x="908" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M911 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,0"><title>2026-08-02: 46 contributions</title>
+<rect x="930" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M933 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,1"><title>2026-08-03: 11 contributions</title>
+<rect x="930" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M933 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,2"><title>2026-08-04: 70 contributions</title>
+<rect x="930" y="50" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M933 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,3"><title>2026-08-05: 90 contributions</title>
+<rect x="930" y="72" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M933 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,4"><title>2026-08-06: 46 contributions</title>
+<rect x="930" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M933 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,5"><title>2026-08-07: 55 contributions</title>
+<rect x="930" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M933 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,6"><title>2026-08-08: 36 contributions</title>
+<rect x="930" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M933 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="43,0"><title>2026-08-09: 123 contributions</title>
+<rect x="952" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M955 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="43,1"><title>2026-08-10: 101 contributions</title>
+<rect x="952" y="28" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M955 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="43,2"><title>2026-08-11: 86 contributions</title>
+<rect x="952" y="50" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M955 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="43,3"><title>2026-08-12: 97 contributions</title>
+<rect x="952" y="72" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M955 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="43,4"><title>2026-08-13: 190 contributions</title>
+<rect x="952" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M955 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="43,5"><title>2026-08-14: 56 contributions</title>
+<rect x="952" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M955 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="43,6"><title>2026-08-15: 51 contributions</title>
+<rect x="952" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M955 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="44,0"><title>2026-08-16: 37 contributions</title>
+<rect x="974" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M977 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="44,1"><title>2026-08-17: 66 contributions</title>
+<rect x="974" y="28" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M977 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="44,2"><title>2026-08-18: 92 contributions</title>
+<rect x="974" y="50" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M977 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="44,3"><title>2026-08-19: 49 contributions</title>
+<rect x="974" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M977 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="44,4"><title>2026-08-20: 41 contributions</title>
+<rect x="974" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M977 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="44,5"><title>2026-08-21: 11 contributions</title>
+<rect x="974" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M977 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="44,6"><title>2026-08-22: 7 contributions</title>
+<rect x="974" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M977 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="45,0"><title>2026-08-23: 90 contributions</title>
+<rect x="996" y="6" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M999 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="45,1"><title>2026-08-24: 42 contributions</title>
+<rect x="996" y="28" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M999 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="45,2"><title>2026-08-25: 57 contributions</title>
+<rect x="996" y="50" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M999 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="45,3"><title>2026-08-26: 71 contributions</title>
+<rect x="996" y="72" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M999 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="45,4"><title>2026-08-27: 50 contributions</title>
+<rect x="996" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M999 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="45,5"><title>2026-08-28: 51 contributions</title>
+<rect x="996" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M999 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="45,6"><title>2026-08-29: 24 contributions</title>
+<rect x="996" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M999 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="46,0"><title>2026-08-30: 51 contributions</title>
+<rect x="1018" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1021 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="46,1"><title>2026-08-31: 27 contributions</title>
+<rect x="1018" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1021 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="46,2"><title>2026-09-01: 34 contributions</title>
+<rect x="1018" y="50" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1021 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="46,3"><title>2026-09-02: 22 contributions</title>
+<rect x="1018" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1021 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="46,4"><title>2026-09-03: 11 contributions</title>
+<rect x="1018" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1021 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="46,5"><title>2026-09-04: 11 contributions</title>
+<rect x="1018" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1021 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="46,6"><title>2026-09-05: 4 contributions</title>
+<rect x="1018" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1021 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="47,0"><title>2026-09-06: 11 contributions</title>
+<rect x="1040" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1043 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="47,1"><title>2026-09-07: 16 contributions</title>
+<rect x="1040" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1043 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="47,2"><title>2026-09-08: 22 contributions</title>
+<rect x="1040" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1043 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="47,3"><title>2026-09-09: 9 contributions</title>
+<rect x="1040" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1043 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="47,4"><title>2026-09-10: 11 contributions</title>
+<rect x="1040" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1043 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="47,5"><title>2026-09-11: 26 contributions</title>
+<rect x="1040" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1043 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="47,6"><title>2026-09-12: 6 contributions</title>
+<rect x="1040" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1043 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,0"><title>2026-09-13: 8 contributions</title>
+<rect x="1062" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1065 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,1"><title>2026-09-14: 31 contributions</title>
+<rect x="1062" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1065 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,2"><title>2026-09-15: 20 contributions</title>
+<rect x="1062" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1065 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,3"><title>2026-09-16: 13 contributions</title>
+<rect x="1062" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1065 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,4"><title>2026-09-17: 24 contributions</title>
+<rect x="1062" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1065 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,5"><title>2026-09-18: 13 contributions</title>
+<rect x="1062" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1065 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,6"><title>2026-09-19: 9 contributions</title>
+<rect x="1062" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1065 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,0"><title>2026-09-20: 37 contributions</title>
+<rect x="1084" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1087 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,1"><title>2026-09-21: 23 contributions</title>
+<rect x="1084" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1087 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,2"><title>2026-09-22: 19 contributions</title>
+<rect x="1084" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1087 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,3"><title>2026-09-23: 18 contributions</title>
+<rect x="1084" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1087 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,4"><title>2026-09-24: 11 contributions</title>
+<rect x="1084" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1087 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,5"><title>2026-09-25: 8 contributions</title>
+<rect x="1084" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1087 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,6"><title>2026-09-26: 26 contributions</title>
+<rect x="1084" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1087 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,0"><title>2026-09-27: 8 contributions</title>
+<rect x="1106" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1109 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,1"><title>2026-09-28: 3 contributions</title>
+<rect x="1106" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1109 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,2"><title>2026-09-29: 14 contributions</title>
+<rect x="1106" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1109 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,3"><title>2026-09-30: 5 contributions</title>
+<rect x="1106" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1109 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,5"><title>2026-10-02: 2 contributions</title>
+<rect x="1106" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1109 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="51,2"><title>2026-10-06: 1 contributions</title>
+<rect x="1128" y="50" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1131 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="51,3"><title>2026-10-07: 9 contributions</title>
+<rect x="1128" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1131 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="51,4"><title>2026-10-08: 22 contributions</title>
+<rect x="1128" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1131 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="51,5"><title>2026-10-09: 19 contributions</title>
+<rect x="1128" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1131 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="51,6"><title>2026-10-10: 49 contributions</title>
+<rect x="1128" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1131 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,0"><title>2026-10-11: 135 contributions</title>
+<rect x="1150" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1153 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,1"><title>2026-10-12: 31 contributions</title>
+<rect x="1150" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1153 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,2"><title>2026-10-13: 49 contributions</title>
+<rect x="1150" y="50" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1153 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,3"><title>2026-10-14: 17 contributions</title>
+<rect x="1150" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1153 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,4"><title>2026-10-15: 4 contributions</title>
+<rect x="1150" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1153 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,5"><title>2026-10-16: 4 contributions</title>
+<rect x="1150" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1153 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+</g>
+</svg>
